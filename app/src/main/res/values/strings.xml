@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FilmLibrary</string>
+    <string name="ListOfMoviesTitle">List of Movies</string>
+    <string name="iconAddNewElementContentDescription">Add new position to the list</string>
+    <string name="title">Title:</string>
+    <string name="releaseDate">Release Date:</string>
+    <string name="category">Category:</string>
+    <string name="status">Status:</string>
+
+    <string name="category_label">Category</string>
+    <string name="none">None</string>
+
+    <string name="status_label">Status</string>
+
+    <string name="filter_movies_description">Filter movies</string>
+    <string name="number_of_positions">Number of displayed positions: %s</string>
+
+    <string name="film_image_description">Image of film %s</string>
+
+    <string name="delete_movie_question">Do you want to delete movie: %s</string>
+    <string name="dismiss_button">Dismiss</string>
+    <string name="delete_button">Delete</string>
+
+
+<!--AddFilmScreen-->
+    <string name="add_new_film">Add new film</string>
+    <string name="go_back_home">Navigate home</string>
+    <string name="title_label">Title</string>
+    <string name="comment_label">Comment</string>
+    <string name="add_film_button">Add film to list</string>
+
+    <string name="pick_icon_description">Pick Icon from Gallery</string>
+    <string name="image_from_gallery_description">Chosen image from galery</string>
+    <string name="rate_label">Rate</string>
+    <string name="saved_film_message">Film was successfully saved</string>
+    <string name="film_not_saved_message">Unable to save film to repository reason:\n%s</string>
+
+<!--EditFilmScreen-->
+    <string name="edit_film">Edit Film</string>
+    <string name="save_film_to_list">Save film to list</string>
+    <string name="logo">Logo</string>
+
+<!--ViewScreen-->
+    <string name="details">Details</string>
+    <string name="go_to_edit_view">Navigate to edit screen</string>
+    <string name="rate">Rate:</string>
+    <string name="comment">Comment:</string>
+</resources>
